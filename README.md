@@ -1,4 +1,4 @@
 # Weather-Forecasting-App
-This is 
+This is   
 a weather forecasting app
 made using python.
